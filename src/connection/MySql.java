@@ -17,7 +17,7 @@ public class MySql {
     // IMPORTANT: Replace with your actual database URL, username, and password
     private static final String DB = "jdbc:mysql://localhost:3306/carplausdb1";
     private static final String user = "root";
-    private static final String password = "Cha@2008";
+    private static final String password = "*******";
 
     public static Connection getConnection() throws SQLException {
         try {
